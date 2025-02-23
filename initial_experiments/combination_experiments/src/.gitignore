@@ -1,2 +1,3 @@
 # Ignore SIDER dataset files
 *.tsv
+*.csv
